@@ -12,3 +12,6 @@ RUN npm install
 
 #copy the rest of the application code
 COPY . .
+
+# Expose the port your app will run on
+EXPOSE 5173
