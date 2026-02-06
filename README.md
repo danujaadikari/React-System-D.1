@@ -131,10 +131,4 @@ Want to practice? Try these:
 - Read the React documentation: https://react.dev
 - Read the Vite documentation: https://vitejs.dev
 
-## 📄 License
-
-This project is open source and available for learning purposes.
-
----
-
-**Happy Coding! 🚀**
+Create By Danuja Adikari
